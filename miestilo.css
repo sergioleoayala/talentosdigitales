@@ -2,14 +2,19 @@ p {
     background-color: beige;
     font-style: oblique;
     font-size: medium;
-    border-color: blueviolet;
-}
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: groove;
 
-h1 {
+}
+H1{
+    text-align: center; 
+    color:grey;
     background-color: blanchedalmond;
     font-family: fantasy;
+
 }
 
 div {
     background-color: darkgoldenrod;
+border-radius: 25%;
 }
